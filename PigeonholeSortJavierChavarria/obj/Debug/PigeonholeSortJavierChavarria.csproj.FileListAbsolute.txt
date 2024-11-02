@@ -1,0 +1,10 @@
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\bin\Debug\PigeonholeSortJavierChavarria.exe.config
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\bin\Debug\PigeonholeSortJavierChavarria.exe
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\bin\Debug\PigeonholeSortJavierChavarria.pdb
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\obj\Debug\PigeonholeSortJavierChavarria.csproj.AssemblyReference.cache
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\obj\Debug\PigeonholeSortJavierChavarria.Form1.resources
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\obj\Debug\PigeonholeSortJavierChavarria.Properties.Resources.resources
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\obj\Debug\PigeonholeSortJavierChavarria.csproj.GenerateResource.cache
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\obj\Debug\PigeonholeSortJavierChavarria.csproj.CoreCompileInputs.cache
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\obj\Debug\PigeonholeSortJavierChavarria.exe
+C:\Users\Javie\source\repos\PigeonholeSortJavierChavarria\PigeonholeSortJavierChavarria\obj\Debug\PigeonholeSortJavierChavarria.pdb
